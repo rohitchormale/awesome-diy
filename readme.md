@@ -1,6 +1,6 @@
 ![Awesome Do-It-Yourself](diy-logo.png)
 
-**A curated list of Do-It-Yourself project**
+**A curated list of Do-It-Yourself projects**
 
 Let's learn by doing !
 
