@@ -1,4 +1,6 @@
+# Awesome DIY
 ![Awesome Do-It-Yourself](diy-logo.png)
+
 
 **A curated list of Do-It-Yourself projects**
 
