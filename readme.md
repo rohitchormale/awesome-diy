@@ -12,3 +12,4 @@ Let's learn by doing !
 - [nand2tetris](https://www.nand2tetris.org/) Build modern computer from scratch
 - [Pacman Projects](http://ai.berkeley.edu/project_overview.html) Play pacman using AI
 - [pwnagotchi](https://pwnagotchi.ai/) WIFI pawning using AI
+- [Python Concurrency From Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) Awesome video explaining concurrency in python from scratch by David Beazley Pycon 2015
