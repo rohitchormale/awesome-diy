@@ -8,6 +8,7 @@ Let's learn by doing !
 
 
 - [Advent of Code](https://adventofcode.com/) Advent calendar of small programming puzzles for a variety of skill sets and skill levels
+- [CodeCrafters](https://codecrafters.io/) Projects to dive deeper
 - [Learn Git Internals by Building Your Own Git](https://www.leshenko.net/p/ugit/)
 - [Linux From Scratch a.k.a LFS](http://www.linuxfromscratch.org/) Step by step instructions to build custom Linux from source
 - [nand2tetris](https://www.nand2tetris.org/) Build modern computer from scratch
