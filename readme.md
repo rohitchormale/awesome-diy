@@ -9,6 +9,9 @@ Let's learn by doing !
 
 - [Advent of Code](https://adventofcode.com/) Advent calendar of small programming puzzles for a variety of skill sets and skill levels
 - [CodeCrafters](https://codecrafters.io/) Projects to dive deeper
+- [High Performance Browser Networking by Ilya Grigorik](https://hpbn.co/)
+- [How I built a Mechanical Calculator](https://www.youtube.com/watch?v=E0pJST5mL3A) To get better understanding of computer tech fundamentals
+- [Interconnections: Bridges, Routers, Switches, and Internetworking Protocols by Radia Perlman](https://www.amazon.com/Interconnections-Bridges-Switches-Internetworking-Protocols/dp/0201634481) For networking fundamentals
 - [Learn Git Internals by Building Your Own Git](https://www.leshenko.net/p/ugit/)
 - [Linux From Scratch a.k.a LFS](http://www.linuxfromscratch.org/) Step by step instructions to build custom Linux from source
 - [nand2tetris](https://www.nand2tetris.org/) Build modern computer from scratch
@@ -17,5 +20,4 @@ Let's learn by doing !
 - [Python Concurrency From Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) Awesome video explaining concurrency in python from scratch by David Beazley Pycon 2015
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) Explanation of many famous opensource applications with code examples
 - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Famous bloomberg article explaining computer from very very very scratch level
-- [Interconnections: Bridges, Routers, Switches, and Internetworking Protocols by Radia Perlman](https://www.amazon.com/Interconnections-Bridges-Switches-Internetworking-Protocols/dp/0201634481) For networking fundamentals
-- [High Performance Browser Networking by Ilya Grigorik](https://hpbn.co/)
+
