@@ -20,4 +20,5 @@ Let's learn by doing !
 - [Python Concurrency From Ground Up](https://www.youtube.com/watch?v=MCs5OvhV9S4) Awesome video explaining concurrency in python from scratch by David Beazley Pycon 2015
 - [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) Explanation of many famous opensource applications with code examples
 - [What is code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) Famous bloomberg article explaining computer from very very very scratch level
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - Independent sticker printer comparisons with sourced supply costs, a cost-per-sheet calculator and a free 4x7 sticker sheet layout tool.
 
